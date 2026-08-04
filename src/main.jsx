@@ -10,7 +10,7 @@ createRoot(document.getElementById('root')).render(
 
 
   <StrictMode>
-<BrowserRouter  basename="/react-Shopping-cart">
+<BrowserRouter >
   
     <App />
  

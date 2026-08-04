@@ -26,10 +26,10 @@ export default function App() {
 </main>
 
 <Toast/>
-
+<Footer/>
 </ShopcontextProvider>
 
-<Footer/>
+
       </>
   );
 }
