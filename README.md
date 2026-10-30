@@ -1,16 +1,76 @@
-# React + Vite
+# NOVIX – Modern Tech Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern and responsive e-commerce web application built with React and Tailwind CSS.
 
-Currently, two official plugins are available:
+NOVIX allows users to explore technology products, search and filter items, and manage their shopping cart through a clean and user-friendly interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📸 Preview
 
-## React Compiler
+![NOVIX Home Page](./public/screenshots/home.png)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the Oxlint configuration
+- Browse technology products
+- Search products by name
+- Filter products by category
+- Add products to the shopping cart
+- Increase and decrease product quantities
+- Remove products from the cart
+- Automatic price calculation
+- Cart data persistence with LocalStorage
+- Responsive user interface
+- Navigation with React Router
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 🛠️ Technologies
+
+- React
+- JavaScript (ES6+)
+- Tailwind CSS
+- React Router DOM
+- Vite
+- React Icons
+- LocalStorage
+
+## 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/fshoja/react-Shopping-cart.git
+```
+
+Go to the project directory:
+
+```bash
+cd react-Shopping-cart
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## 📦 Build
+
+```bash
+npm run build
+```
+
+## 👩‍💻 Author
+
+**Farzaneh Shoja**
+
+Junior Front-End Developer
+
+[GitHub Profile](https://github.com/fshoja)
+
+---
+
+Built with React and a passion for modern web development.
