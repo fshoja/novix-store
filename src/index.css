@@ -1,0 +1,72 @@
+@import "tailwindcss";
+
+
+
+OVIX
+
+Background
+
+#0B0F19
+
+ کپی
+
+Surface / Cards
+
+#141B2D
+
+ کپی
+
+Primary Blue
+
+#4F8CFF
+
+ کپی
+
+Accent Cyan
+
+#22D3EE
+
+ کپی
+
+Main Text
+
+#F8FAFC
+
+ کپی
+
+Muted Text
+
+#94A3B8
+
+
+
+
+:root {
+  font-family: Inter, sans-serif;
+  color: #f8fafc;
+  background: #0b0f19;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
