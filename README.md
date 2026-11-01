@@ -6,11 +6,11 @@ NOVIX allows users to explore technology products, search and filter items, and 
 
 ## 🌐 Live Demo
 
-[View Live Demo](https://react-shopping-cart-ruby-two.vercel.app)
+[View Live Demo](https://react-shopping-cart-ruby-two.vercel.app/)
 
 ## 📸 Preview
 
-![NOVIX Home Page](./public/screenshots/home.png)
+![NOVIX Home Page](https://github.com/fshoja/novix-store/raw/main/public/screenshots/home.png)
 
 ## ✨ Features
 
@@ -37,14 +37,33 @@ NOVIX allows users to explore technology products, search and filter items, and 
 
 ## 🚀 Installation
 
+1. Clone the repository:
+
 ```bash
-git clone https://github.com/fshoja/react-Shopping-cart.git
-cd react-Shopping-cart
+git clone https://github.com/fshoja/novix-store.git
+```
+
+2. Navigate to the project folder:
+
+```bash
+cd novix-store
+```
+
+3. Install dependencies:
+
+```bash
 npm install
+```
+
+4. Start the development server:
+
+```bash
 npm run dev
 ```
 
 ## 📦 Build
+
+To create a production build:
 
 ```bash
 npm run build
