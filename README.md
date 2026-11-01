@@ -4,6 +4,10 @@ A modern and responsive e-commerce web application built with React and Tailwind
 
 NOVIX allows users to explore technology products, search and filter items, and manage their shopping cart through a clean and user-friendly interface.
 
+## 🌐 Live Demo
+
+[View Live Demo](https://react-shopping-cart-ruby-two.vercel.app)
+
 ## 📸 Preview
 
 ![NOVIX Home Page](./public/screenshots/home.png)
@@ -33,27 +37,10 @@ NOVIX allows users to explore technology products, search and filter items, and 
 
 ## 🚀 Installation
 
-Clone the repository:
-
 ```bash
 git clone https://github.com/fshoja/react-Shopping-cart.git
-```
-
-Go to the project directory:
-
-```bash
 cd react-Shopping-cart
-```
-
-Install dependencies:
-
-```bash
 npm install
-```
-
-Start the development server:
-
-```bash
 npm run dev
 ```
 
@@ -70,7 +57,3 @@ npm run build
 Junior Front-End Developer
 
 [GitHub Profile](https://github.com/fshoja)
-
----
-
-Built with React and a passion for modern web development.
