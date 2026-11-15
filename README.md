@@ -10,8 +10,7 @@ NOVIX allows users to explore technology products, search and filter items, and 
 [View Live Demo](https://react-shopping-cart-ruby-two.vercel.app/)
 
 ## 📸 Preview
-
-![NOVIX Home Page](https://github.com/fshoja/novix-store/raw/main/public/screenshots/home.png)
+![NOVIX Home Page](https://raw.githubusercontent.com/fshoja/novix-store/main/public/screenshots/home.png)
 
 ## ✨ Features
 
