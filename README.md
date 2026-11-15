@@ -1,3 +1,4 @@
+
 # NOVIX – Modern Tech Store
 
 A modern and responsive e-commerce web application built with React and Tailwind CSS.
@@ -9,7 +10,8 @@ NOVIX allows users to explore technology products, search and filter items, and 
 [View Live Demo](https://react-shopping-cart-ruby-two.vercel.app/)
 
 ## 📸 Preview
-![NOVIX Home Page](./public/screenshots/home.png)
+
+![NOVIX Home Page](https://github.com/fshoja/novix-store/raw/main/public/screenshots/home.png)
 
 ## ✨ Features
 
@@ -38,27 +40,27 @@ NOVIX allows users to explore technology products, search and filter items, and 
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/fshoja/novix-store.git
-```
+   ```bash
+   git clone https://github.com/fshoja/novix-store.git
+   ```
 
 2. Navigate to the project folder:
 
-```bash
-cd novix-store
-```
+   ```bash
+   cd novix-store
+   ```
 
 3. Install dependencies:
 
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 
 4. Start the development server:
 
-```bash
-npm run dev
-```
+   ```bash
+   npm run dev
+   ```
 
 ## 📦 Build
 
@@ -75,3 +77,4 @@ npm run build
 Junior Front-End Developer
 
 [GitHub Profile](https://github.com/fshoja)
+
